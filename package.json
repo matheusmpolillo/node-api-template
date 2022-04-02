@@ -1,0 +1,14 @@
+{
+    "name": "node-web-template",
+    "version": "0.0.1",
+    "main": "main/src.js",
+    "author": "Matheus Marques Polillo<matheus_polillo@yahoo.com>",
+    "license": "MIT",
+    "private": true,
+    "homepage": "https://github.com/matheusmpolillo/node-web-template#readme",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {},
+    "jest": {},
+    "nodemonConfig": {}
+}
