@@ -5,7 +5,7 @@
     "author": "Matheus Marques Polillo<matheus_polillo@yahoo.com>",
     "license": "MIT",
     "private": true,
-    "homepage": "https://github.com/matheusmpolillo/node-web-template#readme",
+    "homepage": "https://github.com/matheusmpolillo/node-web-template",
     "scripts": {},
     "devDependencies": {},
     "dependencies": {},
