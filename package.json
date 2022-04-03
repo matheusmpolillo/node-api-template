@@ -7,9 +7,11 @@
     "private": true,
     "homepage": "https://github.com/matheusmpolillo/node-web-template",
     "scripts": {
-        "lint": "eslint --fix --ext js ."
+        "lint": "eslint --fix --ext js .",
+        "docsify": "npx docsify serve ./docs/docsify"
     },
     "devDependencies": {
+        "docsify-cli": "^4.4.4",
         "eslint": "^8.12.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-plugin-prettier": "^4.0.0",
