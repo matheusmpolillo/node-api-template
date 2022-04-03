@@ -6,8 +6,15 @@
     "license": "MIT",
     "private": true,
     "homepage": "https://github.com/matheusmpolillo/node-web-template",
-    "scripts": {},
-    "devDependencies": {},
+    "scripts": {
+        "lint": "eslint --fix --ext js ."
+    },
+    "devDependencies": {
+        "eslint": "^8.12.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "prettier": "^2.6.2"
+    },
     "dependencies": {},
     "jest": {},
     "nodemonConfig": {}
